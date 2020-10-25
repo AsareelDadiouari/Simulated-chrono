@@ -15,11 +15,7 @@ All simulations have been made in https://www.tinkercad.com/.
   * Button 1 : Start the stopwatch
   * Button 2 : Record a lap
   * Button 3 : Pause the stopwatch
-  * Button 4 : Reset the stopwatch
-
-```arduino
-  
-```
+  * Button 0 : Reset the stopwatch
 
 ## Run
 You can simulate the project here => https://www.tinkercad.com/things/9VTkiI8xjsJ
