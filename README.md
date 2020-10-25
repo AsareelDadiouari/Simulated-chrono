@@ -16,7 +16,8 @@ All simulations have been made in https://www.tinkercad.com/.
   * Button 2 : Record a lap
   * Button 3 : Pause the stopwatch
   * Button 0 : Reset the stopwatch
-  ##DE
+  
+  ###DE
   * Button 1: Startet die Stoppuhr
   * Button 2: Nimmt eine Runde auf 
   * Button 3: Pausiert die Stoppuhr
